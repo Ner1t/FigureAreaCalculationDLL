@@ -1,0 +1,12 @@
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\bin\Debug\net6.0\FigureAreaCalculation.deps.json
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\bin\Debug\net6.0\FigureAreaCalculation.dll
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\bin\Debug\net6.0\FigureAreaCalculation.pdb
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\FigureAreaCalculation.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\FigureAreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\FigureAreaCalculation.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\FigureAreaCalculation.AssemblyInfo.cs
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\FigureAreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\FigureAreaCalculation.dll
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\refint\FigureAreaCalculation.dll
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\FigureAreaCalculation.pdb
+C:\Users\1\source\repos\Figure_area_сalculation\Figure_area_сalculation\obj\Debug\net6.0\ref\FigureAreaCalculation.dll
